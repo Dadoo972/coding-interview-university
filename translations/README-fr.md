@@ -8,10 +8,10 @@ Traductions:
 <div align="center">
 	<hr />
     <p>
-        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+        <a href="https://github.com/sponsors/jwasham"><strong>Devenez un sponsor</strong> et supportez "Coding Interview University!"</a>
     </p>
     <p>
-        <strong>Special thanks to:</strong>
+        <strong>Remerciements spéciaux pour:</strong>
     </p>
     <p>
         <a href="https://oss.capital/">
@@ -44,19 +44,19 @@ Traductions:
 
 ## C'est quoi?
 
-C'est un plan d'études de plusieurs mois pour aller d'un développeur web (Autodidacte, sans diplôme en informatique) à ingénieur logiciel google.
+C'est un plan d'études de plusieurs mois pour passer de développeur web (Autodidacte, sans diplôme en informatique) à ingénieur logiciel google.
 
 ![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
-Cette longue liste a été extraite et étendue de **Google's coaching notes**, ce sont donc des choses que vous devez savoir.
-En bas, j'ai rajouté des unités supplémentaires qui peuvent être soulevées pendant l'entretien, ou qui peuvent être utiles pour résoudre des problèmes. Plusieurs unités proviennent de
+Cette longue liste a été extraite et enrichie avec **Les notes de coaching de Google**, car il s'agit de notes à connaître.
+En bas, j'ai rajouté des unités supplémentaires qui peuvent être demandées pendant l'entretien, ou qui peuvent être utiles pour résoudre des problèmes. Plusieurs unités proviennent de
 "[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)" par Steve Yegge, et sont parfois reflétées mot pour mot dans les notes de coaching de google.
 
-J'ai épuré ce que vous devez savoir de ce qui est recommendé par Yegge. J'ai modifié les prérequis de Yegge.
-D'après les informations reçues de la part des contact travaillant à Google. Ceci est destiné aux **new software engineers**  ou aux developpeur logiciel/web qui souhaitent devenir des ingénieurs en génie logiciel (où la science de l'informatique est requise). Si vous avez plusieurs années d'expérience et vous déclarez plusieurs années d'éxperience en génie logiciel attendez vous à un entretien plus dur.
+J'ai épuré ce que vous devez savoir de ce qui est recommandé par Yegge. J'ai modifié les prérequis de Yegge.
+D'après les informations reçues de la part des contacts travaillant à Google. Ceci est destiné aux **Nouveaux ingénieurs logiciels**  ou aux developpeur logiciel/web qui souhaitent devenir des ingénieurs en génie logiciel (où la science de l'informatique est requise). Si vous avez plusieurs années d'expérience et que vous déclarez avoir plusieurs années d'expérience en génie logiciel, attendez vous à un entretien plus dur.
 [Read more here](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
 
-Si vous avez plusieurs années d'experience en development web/logiciel, notez que google font une distinction entre le développement logiciel et l'ingénieurie en génie civil.
+Si vous avez plusieurs années d'expériences en développement web/logiciel, notez que google fait une distinction entre le développement logiciel et l'ingénierie en génie civil.
 
 Si vous souhaitez devenir ingénieur de fiabilité, ou ingénieur systèmes, suivez plus de cours de la liste optionelle (Réseau, sécurité)
 ---
